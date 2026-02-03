@@ -17,12 +17,6 @@ This repo provides the code snippets from the article (and a few extras) organiz
 - See differences between lists and tuples in action.
 - Learn best practices with namedtuples, dictionary keys, and more.
 
-## Quick Start
-Clone the repo and run any `.py` file:
-```bash
-git clone https://github.com/yourusername/python-tuples-examples.git
-cd python-tuples-examples
-python examples/memory_comparison.py
 
 ## Examples Included
 
